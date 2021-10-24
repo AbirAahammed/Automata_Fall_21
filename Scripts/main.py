@@ -132,7 +132,7 @@ if __name__ == '__main__':
     res_c = []
     with Pool(5) as p:
         p.map(test_a, [i+1 for i in range(test_i)])
-    with Pool(5) as p:
-        p.map(test_b, [i+1 for i in range(test_i)])
-    with Pool(5) as p:
-        p.map(test_c, [i+1 for i in range(test_i)])
+    # with Pool(5) as p:
+    #     p.map(test_b, [i+1 for i in range(test_i)])
+    # with Pool(5) as p:
+    #     p.map(test_c, [i+1 for i in range(test_i)])
