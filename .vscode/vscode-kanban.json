@@ -1,0 +1,92 @@
+{
+  "todo": [],
+  "in-progress": [
+    {
+      "assignedTo": {
+        "name": "abiraahammed"
+      },
+      "category": "Question",
+      "creation_time": "2021-10-26T07:39:02.618Z",
+      "description": {
+        "content": "2 questions, \na) Generate a DFA from the given NFA\nb) describe the L decided by the NFA using set builder notation",
+        "mime": "text/markdown"
+      },
+      "id": "3",
+      "references": [],
+      "title": "Q3",
+      "details": {
+        "content": "Copy the drawn dfa from Goodnotes.",
+        "mime": "text/markdown"
+      }
+    }
+  ],
+  "testing": [
+    {
+      "assignedTo": {
+        "name": "abiraahammed"
+      },
+      "category": "Question",
+      "creation_time": "2021-10-26T07:38:25.161Z",
+      "id": "1",
+      "references": [],
+      "title": "Q1"
+    },
+    {
+      "assignedTo": {
+        "name": "abiraahammed"
+      },
+      "category": "Question",
+      "creation_time": "2021-10-26T07:38:47.141Z",
+      "id": "2",
+      "references": [],
+      "title": "Q2",
+      "details": {
+        "content": "Will finish it tomorrow.",
+        "mime": "text/markdown"
+      }
+    },
+    {
+      "assignedTo": {
+        "name": "abiraahammed"
+      },
+      "category": "Question",
+      "creation_time": "2021-10-26T07:41:58.513Z",
+      "description": {
+        "content": "3 regex",
+        "mime": "text/markdown"
+      },
+      "id": "4",
+      "references": [],
+      "title": "Q4"
+    },
+    {
+      "assignedTo": {
+        "name": "abiraahammed"
+      },
+      "category": "Question",
+      "creation_time": "2021-10-26T07:42:10.562Z",
+      "details": {
+        "content": "Will finish it tomorrow.",
+        "mime": "text/markdown"
+      },
+      "id": "5",
+      "references": [],
+      "title": "Q5"
+    },
+    {
+      "assignedTo": {
+        "name": "abiraahammed"
+      },
+      "category": "Question",
+      "creation_time": "2021-10-26T07:43:10.895Z",
+      "description": {
+        "content": "a) DFA drawn\nb) Arbritary NFA\nc) Prove that 2^n Eq classes and DFA states",
+        "mime": "text/markdown"
+      },
+      "id": "6",
+      "references": [],
+      "title": "Q6"
+    }
+  ],
+  "done": []
+}
