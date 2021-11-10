@@ -21,6 +21,30 @@
         "name": "abiraahammed"
       },
       "category": "AQ",
+      "creation_time": "2021-11-09T21:26:11.934Z",
+      "id": "4",
+      "prio": 1,
+      "references": [],
+      "title": "Q4"
+    }
+  ],
+  "testing": [
+    {
+      "assignedTo": {
+        "name": "abiraahammed"
+      },
+      "category": "AQ",
+      "creation_time": "2021-11-09T21:25:14.276Z",
+      "id": "2",
+      "prio": 1,
+      "references": [],
+      "title": "Q2"
+    },
+    {
+      "assignedTo": {
+        "name": "abiraahammed"
+      },
+      "category": "AQ",
       "creation_time": "2021-11-09T21:25:30.251Z",
       "description": {
         "content": "A\nB",
@@ -36,17 +60,6 @@
         "name": "abiraahammed"
       },
       "category": "AQ",
-      "creation_time": "2021-11-09T21:26:11.934Z",
-      "id": "4",
-      "prio": 1,
-      "references": [],
-      "title": "Q4"
-    },
-    {
-      "assignedTo": {
-        "name": "abiraahammed"
-      },
-      "category": "AQ",
       "creation_time": "2021-11-09T21:26:40.762Z",
       "description": {
         "content": "A :heavy_check_mark: Needs Work\nB :heavy_check_mark: Needs Work",
@@ -56,19 +69,6 @@
       "prio": 1,
       "references": [],
       "title": "Q5"
-    }
-  ],
-  "testing": [
-    {
-      "assignedTo": {
-        "name": "abiraahammed"
-      },
-      "category": "AQ",
-      "creation_time": "2021-11-09T21:25:14.276Z",
-      "id": "2",
-      "prio": 1,
-      "references": [],
-      "title": "Q2"
     }
   ],
   "done": []
