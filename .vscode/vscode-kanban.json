@@ -5,29 +5,14 @@
       "assignedTo": {
         "name": "abiraahammed"
       },
-      "category": "Question",
-      "creation_time": "2021-10-26T07:39:02.618Z",
+      "category": "AQ",
+      "creation_time": "2021-11-09T21:24:27.629Z",
       "description": {
-        "content": "2 questions, \na) Generate a DFA from the given NFA\nb) describe the L decided by the NFA using set builder notation",
+        "content": "A\nB :heavy_check_mark:\nC :heavy_check_mark:",
         "mime": "text/markdown"
       },
-      "id": "3",
-      "references": [],
-      "title": "Q3",
-      "details": {
-        "content": "Copy the drawn dfa from Goodnotes.",
-        "mime": "text/markdown"
-      }
-    }
-  ],
-  "testing": [
-    {
-      "assignedTo": {
-        "name": "abiraahammed"
-      },
-      "category": "Question",
-      "creation_time": "2021-10-26T07:38:25.161Z",
       "id": "1",
+      "prio": 1,
       "references": [],
       "title": "Q1"
     },
@@ -35,27 +20,25 @@
       "assignedTo": {
         "name": "abiraahammed"
       },
-      "category": "Question",
-      "creation_time": "2021-10-26T07:38:47.141Z",
-      "id": "2",
-      "references": [],
-      "title": "Q2",
-      "details": {
-        "content": "Will finish it tomorrow.",
+      "category": "AQ",
+      "creation_time": "2021-11-09T21:25:30.251Z",
+      "description": {
+        "content": "A\nB",
         "mime": "text/markdown"
-      }
+      },
+      "id": "3",
+      "prio": 1,
+      "references": [],
+      "title": "Q3"
     },
     {
       "assignedTo": {
         "name": "abiraahammed"
       },
-      "category": "Question",
-      "creation_time": "2021-10-26T07:41:58.513Z",
-      "description": {
-        "content": "3 regex",
-        "mime": "text/markdown"
-      },
+      "category": "AQ",
+      "creation_time": "2021-11-09T21:26:11.934Z",
       "id": "4",
+      "prio": 1,
       "references": [],
       "title": "Q4"
     },
@@ -63,29 +46,29 @@
       "assignedTo": {
         "name": "abiraahammed"
       },
-      "category": "Question",
-      "creation_time": "2021-10-26T07:42:10.562Z",
-      "details": {
-        "content": "Will finish it tomorrow.",
+      "category": "AQ",
+      "creation_time": "2021-11-09T21:26:40.762Z",
+      "description": {
+        "content": "A :heavy_check_mark: Needs Work\nB :heavy_check_mark: Needs Work",
         "mime": "text/markdown"
       },
       "id": "5",
+      "prio": 1,
       "references": [],
       "title": "Q5"
-    },
+    }
+  ],
+  "testing": [
     {
       "assignedTo": {
         "name": "abiraahammed"
       },
-      "category": "Question",
-      "creation_time": "2021-10-26T07:43:10.895Z",
-      "description": {
-        "content": "a) DFA drawn\nb) Arbritary NFA\nc) Prove that 2^n Eq classes and DFA states",
-        "mime": "text/markdown"
-      },
-      "id": "6",
+      "category": "AQ",
+      "creation_time": "2021-11-09T21:25:14.276Z",
+      "id": "2",
+      "prio": 1,
       "references": [],
-      "title": "Q6"
+      "title": "Q2"
     }
   ],
   "done": []
