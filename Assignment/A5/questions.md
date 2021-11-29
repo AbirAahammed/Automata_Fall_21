@@ -6,4 +6,4 @@
 | 2b  | Define, $\alpha = X$, such that, $\beta= 1 \cdot X$ Is this valid?                                                                                                                                   |                          |
 | 3   | Can we define something like, f(k) to a function q?                                                                                                                                                  |
 | 4   | Do we need to prove a certain binary string is in $\mathscr{L}(re)$?                                                                                                                                 |                          |
-| 7| Descibe the USTM I built, ask if it is a valid USTM?||
+| 7   | Descibe the USTM I built, ask if it is a valid USTM?                                                                                                                                                 |                          |
