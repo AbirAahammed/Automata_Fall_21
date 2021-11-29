@@ -1,16 +1,8 @@
 {
-  "todo": [
-    {
-      "assignedTo": {
-        "name": "abiraahammed"
-      },
-      "creation_time": "2021-11-24T16:43:54.944Z",
-      "id": "8",
-      "references": [],
-      "title": "A5Q3"
-    }
-  ],
-  "in-progress": [
+  "todo": [],
+  "in-progress": [],
+  "testing": [],
+  "done": [
     {
       "assignedTo": {
         "name": "abiraahammed"
@@ -28,6 +20,15 @@
       "id": "7",
       "references": [],
       "title": "A5Q2"
+    },
+    {
+      "assignedTo": {
+        "name": "abiraahammed"
+      },
+      "creation_time": "2021-11-24T16:43:54.944Z",
+      "id": "8",
+      "references": [],
+      "title": "A5Q3"
     },
     {
       "assignedTo": {
@@ -65,7 +66,5 @@
       "references": [],
       "title": "A5Q7"
     }
-  ],
-  "testing": [],
-  "done": []
+  ]
 }
