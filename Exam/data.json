@@ -1,0 +1,22 @@
+{
+  "language": [
+    {
+      "id": 1,
+      "language": "Accept_TM",
+      "recognizable": 1,
+      "decidable": 0
+    },
+    {
+      "language": "Accept_TM_U",
+      "recognizable": 1,
+      "decidable": 0,
+      "id": 2
+    },
+    {
+        "language": "Accept_TM_U",
+        "recognizable": 1,
+        "decidable": 0,
+        "id": 3
+      }
+  ]
+}
