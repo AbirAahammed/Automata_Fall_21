@@ -1,1 +1,9 @@
-1. If we have proved a bijection from 
+| A-Q | Questions                                                                                                                                                                                            | Answer                   |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| 4   | Can we state that,  regular expression defines a regular language and all regular languges are a subset of decidable language only using Lec 61 Slide 3?                                             | needs to be proved       |
+| 1b  | Is this a valid way to  express $\alpha$ interms of $\beta$, $\alpha =\{0, 1\}^*$ such that $\#_0(\alpha) = x$  and $\#_1(\alpha) = y$ where $x$ and $y$ are 2 non negative integer. and $x-y=\beta$ | $\alpha =0^21^{2+\beta}$ |
+| 2c  | is $C^{-1}(W)$ a valid function?                                                                                                                                                                     | DONE                     |
+| 2b  | Define, $\alpha = X$, such that, $\beta= 1 \cdot X$ Is this valid?                                                                                                                                   |                          |
+| 3   | Can we define something like, f(k) to a function q?                                                                                                                                                  |
+| 4   | Do we need to prove a certain binary string is in $\mathscr{L}(re)$?                                                                                                                                 |                          |
+| 7   | Descibe the USTM I built, ask if it is a valid USTM?                                                                                                                                                 |                          |
